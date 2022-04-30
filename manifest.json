@@ -41,8 +41,7 @@
     ],
     "theme_color": "#780B3D",
     "background_color": "#1f1f1f",
-    "start_url": "/pwa"
-    "scope": "."
+    "start_url": "/",
     "display": "standalone",
     "orientation": "portrait"
   }
